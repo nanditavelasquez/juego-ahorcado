@@ -1,11 +1,28 @@
-<div id="header" align="center">
-    <h1 align="center">Juego del ahorcado</h1>
+# Juego del ahorcado
+
+ <div align="center">
+   <img src="img/ahorcado.jpg" width="628" height="303">
 </div>
 
-<div align="center">
-    <h3> 🔨 Desarrollado con html, css y javascript</h3>
-<div>
-<br>
-<div align="center">
-   <img src="img/ahorcado.jpg" width="595" height="386">
-</div>
+## Características
+
+- Interfaz simple y amigable.
+- Palabras aleatorias para adivinar.
+- Estilo atractivo utilizando CSS.
+
+## Tecnologías Utilizadas
+
+- **HTML**: Para la estructura del juego.
+- **CSS**: Para el diseño y estilo visual.
+- **JavaScript**: Para la lógica del juego y la interacción.
+
+## Instalación
+
+Para jugar, simplemente clona este repositorio en tu computadora y abre el archivo index.html en tu navegador.
+
+## Cómo Jugar
+
+1. Elige una letra y haz clic en el botón para adivinar.
+2. Si la letra está en la palabra, aparecerá en su lugar correspondiente.
+3. Si la letra no está en la palabra, perderás un intento.
+4. El juego termina cuando adivinas la palabra o se completan los intentos.
